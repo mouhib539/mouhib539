@@ -24,8 +24,7 @@
     <li>I pride myself on delivering clean, efficient, and scalable code.</li>
     <li>A willingness to learn and adopt the latest technologies keeps me ahead in the rapidly evolving tech space.</li>
   </ul>
-  <h2>📈 GitHub Stats</h2>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouhib539&show_icons=true&theme=radical)
- 
   
+  <h2>📈 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=mouhib539&show_icons=true&theme=radical" alt="Mouhib's GitHub Stats" />
 </div>
